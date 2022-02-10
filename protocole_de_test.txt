@@ -1,0 +1,11 @@
+#PROTOCOLE DE TEST
+
+1. Install Android Emulator and launch it or Debug on USB device
+2. npx react-native start
+3. npx react-native run-android
+4. Connexion to REDDIT
+5. Reload Metro server with 'r'
+6. Accept API Authentification
+
+    - Faire des messages de debugs a chaque nouvelles actions implementées pour garantir l'accès à la totalité des
+        fonctionnalitées.

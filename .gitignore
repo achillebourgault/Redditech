@@ -1,0 +1,5 @@
+android/.gradle
+android/.gradle/6.9
+android/app/build
+node_modules
+.idea
